@@ -1,3 +1,28 @@
-#intro-body {
-  
+#main-body {
+  padding: 5px;
+}
+
+#customer-div {
+  margin: 7px;
+}
+
+.no-jumbo {
+  margin: 7px;
+}
+
+div.book {
+  padding: 5px;
+}
+
+div.color-bar {
+  background-color: #ccaeb7;
+  padding: 20px;
+}
+
+.regular-text {
+  font-size: 3em;
+}
+
+.smaller-text {
+  font-size: 1.5em;
 }
